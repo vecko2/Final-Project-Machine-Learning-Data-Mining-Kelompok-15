@@ -1,5 +1,5 @@
 # Study Result Prediction Based on the OULAD Dataset
-Author
+# Author
 | Nama              | NRP        |
 |-------------------|------------|
 | Nazhif Berlian Nashrullah            | 5054241035      |
